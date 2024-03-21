@@ -1,3 +1,5 @@
+![logo](https://github.com/itsmrzok/itsmrzok/blob/main/image%20(9).png)
+
 <h1 align="center">Hi 👋, I'm ZaMeer Abbas</h1>
 <h3 align="center">CS Eng. student 🎓 | Java & Python enthusiast 🐍 | Full Stack Developer 🚀 | Security Analyst & Bug Bounty Hunter | Penetration Testing | Security Auditing | Incident Response | Also skilled in UI/UX design using Figma.</h3>
 <br>
