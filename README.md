@@ -66,8 +66,12 @@ leetcode: https://leetcard.jacoblin.cool/
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmrzok&" alt="itsmrzok" /></p>
+<div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmrzok&" alt="itsmrzok" />
+</div>
 <h3 align="center">Support:</h3>
-<p><a href="https://ko-fi.com/itsmrzok"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itsmrzok" /></a></p><br><br>
+<div style="text-align: center;">
+    <p><a href="https://ko-fi.com/itsmrzok"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itsmrzok" /></a></p>
+</div>
 <br>
 
