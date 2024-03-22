@@ -1,8 +1,45 @@
 ![logo](https://github.com/itsmrzok/itsmrzok/blob/main/image%20(9).png)
 
-<h1 align="center">Hi 👋, I'm ZaMeer Abbas</h1>
+
+<h2 align="center">
+  Welcome to ZaMeer Abbas's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+
+
+<!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
+leetcode: https://leetcard.jacoblin.cool/ -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+ZaMeer+Abbas;I+am++CS+Eng.++Student%F0%9F%8E%93;I+am+an+open+sourse+enthusiast+;Full+Stack+Developer+%F0%9F%9A%80;Security+Analyst+%26+Bug+Bounty+Hunter;I+am+Java+%26+Python+enthusiast+%F0%9F%90%8D;Security+Auditing;I+am+UI%2FUX+designer"></a>
+  </h2>
+
 <h3 align="center">CS Eng. student 🎓 | Java & Python enthusiast 🐍 | Full Stack Developer 🚀 | Security Analyst & Bug Bounty Hunter | Penetration Testing | Security Auditing | Incident Response | Also skilled in UI/UX design using Figma.</h3>
 <br>
+
+ <!-- platfrom -->
+ <p align="center">
+  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/naemazam/HackerRank-Solutions"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/theterminalboy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
+</p>
+
+
+
 <img align="center"  alt="23BR4" width=100%  padding=56% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanE3eGN0cDNzd282NGI1YWYwMDBxNThkem04dHg3d3g5bDJ1dGZoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmrzok&label=Profile%20views&color=0e75b6&style=flat" alt="itsmrzok" /> </p>
