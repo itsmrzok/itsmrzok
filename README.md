@@ -34,6 +34,5 @@
 <p><a href="https://ko-fi.com/itsmrzok"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itsmrzok" /></a></p><br><br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmrzok&show_icons=true&locale=en" alt="itsmrzok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmrzok&" alt="itsmrzok" /></p>
